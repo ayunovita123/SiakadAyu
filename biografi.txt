@@ -1,0 +1,4 @@
+1. Mempersiapkan ui/ux
+2. Database
+3. Front-End 
+4. Back-End
